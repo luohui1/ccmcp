@@ -6,7 +6,7 @@ minimumReleaseAge: 10080
 overrides:
   # vite/vitest have peer dependency on @types/node@^22, but latest is 25.x
   # Pin to 22.x until they update their peer deps
-  "@types/node": "^22"
+  "@types/node": "^24.0.0"
 
 strictDepBuilds: true
 

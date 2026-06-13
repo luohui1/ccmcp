@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.15",
-    "@types/node": "^22",
+    "@types/node": "^24.0.0",
     "@types/react": "^19.2.14",
     "@types/shell-quote": "^1.7.5",
     "actions-up": "^1.14.1",
